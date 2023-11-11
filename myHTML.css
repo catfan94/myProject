@@ -1,0 +1,40 @@
+p{
+    color: ghostwhite;
+    font-size: 18px;
+    font-family: cursive;
+}
+h1{
+    color: azure;
+}
+
+h2{
+    color: palegreen;
+}
+h3{
+    color: azure;
+}
+ul{
+    color: azure;
+    font-family: cursive;
+}
+
+body{
+    background-color: brown;
+}
+.button:hover{
+    background-color: cornflowerblue;
+    color: darkred;
+}
+.my-form{
+    padding: 20px;
+}
+.my-form label{
+    color: palegreen;
+    font-family: cursive;
+    display: block;
+    font-size: 20px;
+}
+.form-group{
+    padding-bottom: 10px;
+}
+

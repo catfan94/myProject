@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+pre{
+    color: aqua;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace
+}
+h2{
+    color: lightcoral;
+}
+a {
+    color: greenyellow;
+}
